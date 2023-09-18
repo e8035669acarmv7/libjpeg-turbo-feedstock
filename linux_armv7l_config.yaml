@@ -4,6 +4,8 @@ c_compiler_version:
 - '12'
 cdt_name:
 - cos7
+cdt_arch:
+- armv7l
 channel_sources:
 - conda-forge
 channel_targets:
